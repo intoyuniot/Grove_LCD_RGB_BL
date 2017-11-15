@@ -1,0 +1,17 @@
+{
+    "name": "Grove_LCD_RGB_BL",
+    "version": "1.0.0",
+    "keywords": "LCD,RGB,API31068L",
+    "description": "Grove LCD RGB Backlight（seeedstudio一款采用了RGB的背光灯、AIP31068L控制芯片、16x2、采取I2C通讯的LCD显示器）驱动库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/Grove_LCD_RGB_BL.git"
+    },
+
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
